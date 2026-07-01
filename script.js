@@ -1,0 +1,1 @@
+console.log('Barkat Footwear demo loaded');
